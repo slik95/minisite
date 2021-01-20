@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    margin: 20px;
+}
+h3{
+    margin: 10px;
+}
+
+p{
+    margin:5px;
+    text-align: justify;
+}
+
+nav{
+    background-color: black;
+    
+}
+
+.nav-link{
+    color: white;
+    font-family: "Arial Black";
+}
+.logo{
+    height: 50px;
+
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.imageIndex{
+    display: inline-block;
+
+    height: 400px;
+    width: 100%;
+    margin: 10px;
+
+}
+
+.imageIndex > img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+form{
+    margin-right: 35%;
+    margin-left: 35%;
+    font-family: "Arial";
+}
+
+.container-{
+    background-color: rgb(60, 43, 219);
+    max-width: 100%;
+    padding-bottom: 100%;
+
+}
+
+.cartecontact{
+    background-color: rgb(249, 248, 252);
+    max-width: 100%; 
+    padding: 50px;
+    border-radius: 10px;
+}
+
+
+
